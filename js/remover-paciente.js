@@ -23,3 +23,7 @@ tabela.addEventListener("dblclick", function(event){
 
     //event.target.parentNode.remove(); //remove instantaneamente a linha
 
+
+
+    //testee
+
